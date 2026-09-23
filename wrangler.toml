@@ -1,0 +1,11 @@
+name = "spino-gambino-casino-pt"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spino-gambino-casino.pt"
+HMAC_KEY = "b6047ec6f0a17435c2b92003905406d402bb97547778af73cded29d57346f052"
+COOKIE_NAME = "edf"
+PLAY_PATH = "start-now"
+BUTTON_ID = "peecd55805cbdcbd3aeb06434d70019fc"
+GATE_SALT = "b57ddee15efc311d"
